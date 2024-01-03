@@ -16,3 +16,16 @@ print(sys.executable) # Location of the Python.exe used to run this code
 # .\.venv\Scripts\Activate
 # pip install -r requirements.txt
 
+
+
+
+####################################
+### HOW TO SET GITHUB REPOSITORY ###
+####################################
+
+# Step 1: Create new git repo
+# Step 2: Run the following commands (change url)
+
+# git remote add origin https://github.com/JonatanRasmussen/02476-Machine-Learning-Operations.git
+# git branch -M main
+# git push -u origin main
